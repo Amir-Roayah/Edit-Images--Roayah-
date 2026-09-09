@@ -55,7 +55,7 @@
     menu = document.createElement('div');
     menu.id = 'tm-img-menu';
     menu.innerHTML = `
-      <button type="button" data-action="edit">تعديل وتنزيل الصورة</button>
+      <button type="button" data-action="edit">تعديل وتنزيل الصورة (رؤية)</button>
       <button type="button" data-action="open-image">فتح الصورة في علامة تبويب جديدة</button>
       <button type="button" data-action="copy-image">نسخ رابط الصورة</button>
       <button type="button" data-action="download-original">حفظ الصورة الأصلية</button>`;
